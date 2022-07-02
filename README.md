@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @henrylemon
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning python and git version control
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: Twitter -> https://twitter.com/phlimasi
+
